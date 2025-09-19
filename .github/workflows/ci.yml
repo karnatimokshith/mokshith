@@ -41,7 +41,7 @@ jobs:
         continue-on-error: true
 
       - name: Build
-        run: npm run build
+        run: npx --yes vite build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

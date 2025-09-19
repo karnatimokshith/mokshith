@@ -11,7 +11,7 @@ export default function Dashboard() {
       {/* Page Header */}
       <div>
         <h1 className="text-2xl font-bold text-foreground">Dashboard</h1>
-        <p className="text-muted-foreground">Welcome back! Here's what's happening with your business today.</p>
+        <p className="text-muted-foreground">Welcome back Here's what's happening with your business today.</p>
       </div>
 
       {/* KPI Cards */}

@@ -5,7 +5,7 @@ pipeline {
       args '-u root:root'
     }
   }
-
+  
   options {
     timestamps()
     ansiColor('xterm')
